@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/usuario/Documents/9%C2%B0SEMESTRE%20ROXANA%20BALCAZAR/SERVICIOS%20WEB/Practica5_A190393/ejemplo1.xsl"?>
+<libros>
+      <libro>
+        <titulo>El principito</titulo>
+        <autor>Antoine de Saint-Exupéry</autor>
+        <genero>Fabula</genero>
+        <ano_publicacion>1943</ano_publicacion>
+        <sinopsis>Encuentros del Principito en distintos planetas.</sinopsis>
+        <num_paginas>96</num_paginas>
+    </libro>
+    
+     <libro>
+        <titulo>Crónicas Marcianas</titulo>
+        <autor>Ray Bradbury</autor>
+        <genero>Ciencia ficción</genero>
+        <ano_publicacion>1950</ano_publicacion>
+        <sinopsis>Historias sobre la colonización de Marte </sinopsis>
+        <num_paginas>225</num_paginas>
+    </libro>
+    
+     <libro>
+        <titulo>Cuentos de la selva</titulo>
+        <autor>Horacio Quiroga</autor>
+        <genero>Aventuras </genero>
+        <ano_publicacion>1918</ano_publicacion>
+        <sinopsis>Aventuras de animales en la selva sudamericana. </sinopsis>
+        <num_paginas>120</num_paginas>
+    </libro>
+    
+    <libro>
+        <titulo>Cien años de soledad</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <genero>Realismo mágico</genero>
+        <ano_publicacion>1967</ano_publicacion>
+        <sinopsis>La historia de la familia Buendía en Macondo.</sinopsis>
+        <num_paginas>432</num_paginas>
+    </libro>
+    
+    <libro>
+        <titulo>Alicia en el país de las maravillas</titulo>
+        <autor>Lewis Carroll</autor>
+        <genero>Fantasía</genero>
+        <ano_publicacion>1865</ano_publicacion>
+        <sinopsis>Las aventuras de Alicia en un mundo surreal.</sinopsis>
+        <num_paginas>120</num_paginas>
+    </libro>
+
+</libros>
